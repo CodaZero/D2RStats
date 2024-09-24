@@ -1,7 +1,7 @@
 # D2RStats
 
 
-Testing site used to mark down stats in Diablo 2 
+Testing site used to mark down stats in Diablo 2. Not supposed to replace or compete with the main sites out there, Just mainly used for practice and for me to easily see stats without having to refer to my book.
 
 Completed: 
 
